@@ -1,1 +1,1 @@
-# funProjM26
+# Collaboration with Git
